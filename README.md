@@ -1,4 +1,4 @@
-- Hi, I’m @Cemkoc
+- Hi, I’m @Cemkc
 - I’m interested in Machine Learning, Game Development, Algorithms. 
 - How to reach me cemkoc132@gmail.com
 
